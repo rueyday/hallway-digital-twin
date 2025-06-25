@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a reference for tracking and documenting files and functions I use while learning computer vision. It is intended as a structured and searchable resource for future reference.
+This repository is a reference for tracking and documenting files and functions I use while learning natrual language processing. It is intended as a structured and searchable resource for future reference.
 
 ## Resources
 
